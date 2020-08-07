@@ -12,13 +12,13 @@
 
 不可移动
 
-![image-20200807155233028](https://github.com/Yangtse1024/dragImages/blob/master/img/readme-img-2.png)
+![不可以动](https://github.com/Yangtse1024/dragImages/blob/master/img/readme-img-2.png)
 
 
 
 可移动
 
-![image-20200807155309359](https://github.com/Yangtse1024/dragImages/blob/master/img/readme-img-3.png)
+![可移动](https://github.com/Yangtse1024/dragImages/blob/master/img/readme-img-3.png)
 
 
 
