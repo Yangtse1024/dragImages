@@ -1,8 +1,4 @@
-### ![image-20200807153229553](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200807153229553.png)
-
-
-
-# 一. 实现效果
+#  一. 实现效果
 
 在图片上按住鼠标左键拖动图片，如果图片当前选择位置与其他图片有重叠，会显示红色表示不可放置；反之，显示绿色，表示没有重叠。若当前图片选择位置有红色，则不可放置，松开鼠标后回到原来的位置；若图片位置全是绿色，表示位置安全，松开鼠标后图片移动到新的位置。
 
@@ -10,19 +6,19 @@
 
 初始状态
 
-![初始效果](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200807154205442.png)
+![初始效果](https://github.com/Yangtse1024/dragImages/blob/master/img/readme-img-1.png)
 
 
 
 不可移动
 
-![image-20200807155233028](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200807155233028.png)
+![image-20200807155233028](https://github.com/Yangtse1024/dragImages/blob/master/img/readme-img-2.png)
 
 
 
 可移动
 
-![image-20200807155309359](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200807155309359.png)
+![image-20200807155309359](https://github.com/Yangtse1024/dragImages/blob/master/img/readme-img-3.png)
 
 
 
