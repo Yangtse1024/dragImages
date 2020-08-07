@@ -1,0 +1,6 @@
+# 模块包目录
+/node_modules
+
+# 打包目录
+/dist
+

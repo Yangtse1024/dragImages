@@ -1,0 +1,30 @@
+div#legal_notice{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+div#layerContainer{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+canvas{
+    background: transparent;
+    position: absolute;
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*transform: translate(-50%, -50%);*/
+}
+
+canvas#baseLayer{
+    background-color: #000000;
+}
+
+canvas#moveLayer{
+    background-color: transparent;
+}
